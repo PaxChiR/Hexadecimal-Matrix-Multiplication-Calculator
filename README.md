@@ -1,6 +1,6 @@
 # Hexadecimal Matrix Multiplication Calculator
 
-A modern, web-based tool for multiplying 4x4 hexadecimal matrices. Designed with a sleek, dark-mode interface and built-in support for both standard arithmetic and Galois Field (AES) arithmetic.
+Web-based tool for multiplying 4x4 hexadecimal matrices. With built-in support for both standard arithmetic and Galois Field (AES) arithmetic.
 
 ## Features
 
